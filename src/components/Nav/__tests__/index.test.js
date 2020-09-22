@@ -23,7 +23,7 @@ const renderNav =  () => render(<Nav
 
 describe('Nav component', () => {
   it('renders', () => {
-    renderNav
+    renderNav()
   });
  
   it('matches snapshot', () => {
