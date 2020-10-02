@@ -1,6 +1,6 @@
 {
-  "name": "photo-port",
-  "homepage": "http://<username>.github.io/photo-port",
+  "name": "react-photo-port",
+  "homepage": "http://<username>.github.io/react-photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
